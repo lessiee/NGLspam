@@ -1,6 +1,4 @@
-#  N G L   
-F L O O D   
-E N G I N E
+#  N G L     F L O O D     E N G I N E
 
 A high‑performance, anonymous message flooder for NGL.link built with Python and asyncio. Designed for cybersecurity research and educational stress‑testing, it demonstrates advanced asynchronous request handling, adaptive throttling, and dynamic message pools.
 
